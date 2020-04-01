@@ -1,0 +1,35 @@
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\bin\Example.CameraCapture.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\bin\Example.CameraCapture.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\ResGen.read.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\ResGen.write.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.pdb
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\Example.CameraCapture.exe
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\Example.CameraCapture.pdb
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResGen.read.1.tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResGen.write.1.tlog
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\bin\Example.CameraCapture.exe
+D:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\bin\Example.CameraCapture.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\Example.CameraCapture.exe
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\Example.CameraCapture.pdb
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResolveAssemblyReference.cache
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\CameraCapture.CameraCapture.resources
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResGen.read.1.tlog
+H:\Live Mesh\Visual Studio 2010\Projects\Examples\EMGU x64\Emgu.CV.Example\CameraCapture V2.0\obj\Debug\ResGen.write.1.tlog
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\Example.CameraCapture.exe
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\Example.CameraCapture.pdb
+C:\Users\Phuc Huy\Downloads\Compressed\bin\concrt140.dll
+C:\Users\Phuc Huy\Downloads\Compressed\bin\cvextern.dll
+C:\Users\Phuc Huy\Downloads\Compressed\bin\msvcp140.dll
+C:\Users\Phuc Huy\Downloads\Compressed\bin\opencv_ffmpeg410_64.dll
+C:\Users\Phuc Huy\Downloads\Compressed\bin\vcruntime140.dll
+C:\Users\Phuc Huy\Downloads\Compressed\bin\Example.CameraCapture.exe
+C:\Users\Phuc Huy\Downloads\Compressed\bin\Example.CameraCapture.pdb
+C:\Users\Phuc Huy\Downloads\Compressed\CameraCapture V2.0\CameraCapture V2.0\obj\Debug\CameraCapture.csproj.CopyComplete
